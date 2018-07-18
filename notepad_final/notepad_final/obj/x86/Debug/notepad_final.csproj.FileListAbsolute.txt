@@ -1,0 +1,30 @@
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\bin\Debug\notepad_final.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\bin\Debug\notepad_final.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Form1.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Properties.Resources.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csproj.GenerateResource.Cache
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csprojResolveAssemblyReference.cache
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Find2.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Replace3.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\bin\Debug\notepad_final.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\bin\Debug\notepad_final.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csprojResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Find2.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Form1.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Properties.Resources.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Replace3.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csproj.GenerateResource.Cache
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.exe
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.pdb
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\bin\Debug\notepad_final.exe
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\bin\Debug\notepad_final.pdb
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csprojResolveAssemblyReference.cache
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Find2.resources
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Form1.resources
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Properties.Resources.resources
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.Replace3.resources
+D:\DVD WRITE ALL WORK\notepad_final\notepad_final\obj\x86\Debug\notepad_final.csproj.GenerateResource.Cache
